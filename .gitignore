@@ -14,3 +14,7 @@
 
 # Logs
 *.log
+
+# Frontend artifacts
+frontend/node_modules/
+frontend/build/
